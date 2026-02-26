@@ -1,0 +1,364 @@
+{
+    "languages": [
+        {
+            "name": "HTML",
+            "description": "",
+            "colour": "F06529",
+            "logo": "resources/svg/html5.svg",
+            "used_in": [1, 6, 13, 14]
+        },
+        {
+            "name": "CSS",
+            "description": "",
+            "colour": "2965F1",
+            "logo": "resources/svg/css.svg",
+            "used_in": [1, 6, 13, 14]
+        },
+        {
+            "name": "JavaScript",
+            "description": "",
+            "colour": "F0DB4F",
+            "logo": "resources/svg/javascript.svg",
+            "used_in": [1, 13]
+        },
+        {
+            "name": "TypeScript",
+            "description": "",
+            "colour": "007ACC",
+            "logo": "resources/svg/typescript.svg",
+            "used_in": [1]
+        },
+        {
+            "name": "Mongo DB",
+            "description": "",
+            "colour": "4DB33D",
+            "logo": "resources/svg/mongodb.svg",
+            "used_in": [8]
+        },
+        {
+            "name": "React",
+            "description": "",
+            "colour": "61DBFB",
+            "logo": "resources/svg/react.svg",
+            "used_in": [25]
+        },
+        {
+            "name": "SQL",
+            "description": "",
+            "colour": "00758F",
+            "logo": "sql.svg",
+            "used_in": [2, 8]
+        },
+        {
+            "name": "Qlik Sense",
+            "description": "",
+            "colour": "009848",
+            "logo": "resources/svg/qlik.svg",
+            "used_in": [23]
+        },
+        {
+            "name": "Alpine.js",
+            "description": "",
+            "colour": "77C1D2",
+            "logo": "resources/svg/alpinedotjs.svg",
+            "used_in": [18, 27]
+        },
+        {
+            "name": "C#",
+            "description": "",
+            "colour": "823085",
+            "logo": "resources/svg/csharp.svg",
+            "used_in": [3, 25]
+        },
+        {
+            "name": "Laravel",
+            "description": "",
+            "colour": "F05340",
+            "logo": "resources/svg/laravel.svg",
+            "used_in": [18, 27]
+        },
+        {
+            "name": "Python",
+            "description": "",
+            "colour": "306998",
+            "logo": "resources/svg/python.svg",
+            "used_in": [7, 10, 13, 20, 22]
+        },
+        {
+            "name": "Tailwind CSS",
+            "description": "",
+            "colour": "38BDF8",
+            "logo": "resources/svg/tailwindcss.svg",
+            "used_in": [18, 27]
+        },
+        {
+            "name": "PHP",
+            "description": "",
+            "colour": "8892BF",
+            "logo": "resources/svg/php.svg",
+            "used_in": [18, 27]
+        },
+        {
+            "name": "C++",
+            "description": "",
+            "colour": "00599C",
+            "logo": "resources/svg/cplusplus.svg",
+            "used_in": [4]
+        },
+        {
+            "name": "Java",
+            "description": "",
+            "colour": "ED8B00",
+            "logo": "resources/svg/java.svg",
+            "used_in": [14, 24]
+        },
+        {
+            "name": "StarUML",
+            "description": "",
+            "colour": "7E46C3",
+            "logo": "resources/svg/staruml.svg",
+            "used_in": [8, 19, 27]
+        },
+        {
+            "name": "Cisco Packet Tracer",
+            "description": "",
+            "colour": "CFAC21",
+            "logo": "resources/svg/packettracer.svg",
+            "used_in": [15]
+        },
+        {
+            "name": "Markdown",
+            "description": "",
+            "colour": "009688",
+            "logo": "resources/svg/markdown.svg",
+            "used_in": [13, 16, 18, 20, 22, 27]
+        },
+        {
+            "name": "Git",
+            "description": "",
+            "colour": "",
+            "logo": "resources/svg/git.svg",
+            "used_in": [13, 16, 18, 27]
+        },
+        {
+            "name": "Linux",
+            "description": "",
+            "colour": "000000",
+            "logo": "resources/svg/linux.svg",
+            "used_in": [9, 11]
+        },
+        {
+            "name": "Docker",
+            "description": "",
+            "colour": "0DB7ED",
+            "logo": "resources/svg/docker.svg",
+            "used_in": [12]
+        },
+        {
+            "name": "Bootstrap",
+            "description": "",
+            "colour": "8312FA",
+            "logo": "resources/svg/bootstrap.svg",
+            "used_in": [1, 6, 13]
+        },
+        {
+            "name": "Windows",
+            "description": "",
+            "colour": "00A3EE",
+            "logo": "resources/svg/windows.svg",
+            "used_in": [5, 9]
+        },
+        {
+            "name": "Jupyter",
+            "description": "",
+            "colour": "F37726",
+            "logo": "resources/svg/jupyter.svg",
+            "used_in": [20, 22]
+        },
+        {
+            "name": "Livewire",
+            "description": "",
+            "colour": "FB07A9",
+            "logo": "resources/svg/livewire.svg",
+            "used_in": [18, 27]
+        },
+        {
+            "name": "Security",
+            "description": "",
+            "colour": "51A627",
+            "logo": "resources/svg/security.svg",
+            "used_in": [11]
+        }
+    ],
+    "classes": [
+        {
+            "class_id": 1,
+            "name": "Webtechnieken",
+            "description": "",
+            "where": "Level X | 5th Year"
+        },
+        {
+            "class_id": 2,
+            "name": "Databanken",
+            "description": "",
+            "where": "Level X | 5th Year"
+        },
+        {
+            "class_id": 3,
+            "name": "C#",
+            "description": "",
+            "where": "Level X | 5th Year"
+
+        },
+        {
+            "class_id": 4,
+            "name": "ICT & Elektronica",
+            "description": "",
+            "where": "Level X | 5th Year"
+        },
+        {
+            "class_id": 5,
+            "name": "Computertechniek",
+            "description": "",
+            "where": "Level X | 5th Year"
+        },
+        {
+            "class_id": 6,
+            "name": "Webdesign Essentials",
+            "description": "",
+            "where": "Thomas More | Year 1, Semester 1"
+        },
+        {
+            "class_id": 7,
+            "name": "Programming Essentials",
+            "description": "",
+            "where": "Thomas More | Year 1, Semester 1"
+        },
+        {
+            "class_id": 8,
+            "name": "Data Essentials",
+            "description": "",
+            "where": "Thomas More | Year 1, Semester 1"
+        },
+        {
+            "class_id": 9,
+            "name": "Operating Systems",
+            "description": "",
+            "where": "Thomas More | Year 1, Semester 1"
+        },
+        {
+            "class_id": 10,
+            "name": "IOT Essentials",
+            "description": "",
+            "where": "Thomas More | Year 1, Semester 2"
+        },
+        {
+            "class_id": 11,
+            "name": "Security Essentials",
+            "description": "",
+            "where": "Thomas More | Year 1, Semester 2"
+        },
+        {
+            "class_id": 12,
+            "name": "Cloud & DevOps",
+            "description": "",
+            "where": "Thomas More | Year 1, Semester 2"
+        },
+        {
+            "class_id": 13,
+            "name": "Fullstack Essentials",
+            "description": "",
+            "where": "Thomas More | Year 1, Semester 2"
+        },
+        {
+            "class_id": 14,
+            "name": "OO Development",
+            "description": "",
+            "where": "Thomas More | Year 1, Semester 2"
+        },
+        {
+            "class_id": 15,
+            "name": "Network Essentials",
+            "description": "",
+            "where": "Thomas More | Year 1, Semester 2"
+        },
+        {
+            "class_id": 16,
+            "name": "Skill Integration Lab 1",
+            "description": "",
+            "where": "Thomas More | Year 1"
+        },
+        {
+            "class_id": 17,
+            "name": "Communication Skills 1",
+            "description": "",
+            "where": "Thomas More | Year 1"
+        },
+        {
+            "class_id": 18,
+            "name": "Web Development",
+            "description": "",
+            "where": "Thomas More | Year 2, Semester 1"
+        },
+        {
+            "class_id": 19,
+            "name": "Software Modeling & Design",
+            "description": "",
+            "where": "Thomas More | Year 2, Semester 1"
+        },
+        {
+            "class_id": 20,
+            "name": "Data Science",
+            "description": "",
+            "where": "Thomas More | Year 2, Semester 1"
+        },
+        {
+            "class_id": 21,
+            "name": "The Digital Startup",
+            "description": "",
+            "where": "Thomas More | Year 2, Semester 1"
+        },
+        {
+            "class_id": 22,
+            "name": "Artificial Intelligence",
+            "description": "",
+            "where": "Thomas More | Year 2, Semester 2"
+        },
+        {
+            "class_id": 23,
+            "name": "Data Visualisation",
+            "description": "",
+            "where": "Thomas More | Year 2, Semester 2"
+        },
+        {
+            "class_id": 24,
+            "name": "Java Development",
+            "description": "",
+            "where": "Thomas More | Year 2, Semester 2"
+        },
+        {
+            "class_id": 25,
+            "name": "React & .NET Development",
+            "description": "",
+            "where": "Thomas More | Year 2, Semester 2"
+        },
+        {
+            "class_id": 26,
+            "name": "Business & IT Processes",
+            "description": "",
+            "where": "Thomas More | Year 2, Semester 2"
+        },
+        {
+            "class_id": 27,
+            "name": "Skill Integration Lab 2",
+            "description": "",
+            "where": "Thomas More | Year 2"
+        },
+        {
+            "class_id": 28,
+            "name": "Blended Intensive Programme",
+            "description": "",
+            "where": "Thomas More | Year 2"
+        }
+    ]
+}
