@@ -1,1 +1,39 @@
 @import "tailwindcss";
+
+:root {
+    /* Yellows */
+    --color-mainyellow-50: #FFFBE6;
+    --color-mainyellow-100: #FFF3B8;
+    --color-mainyellow-200: #FFEB8A;
+    --color-mainyellow-300: #FFE45C;
+    --color-mainyellow-400: #FFDC2E;
+    --color-mainyellow-500: #FFD500;
+    --color-mainyellow-600: #E0BC00;
+    --color-mainyellow-700: #A38800;
+    --color-mainyellow-800: #756200;
+    --color-mainyellow-900: #473C00;
+
+    /* Pinks */
+    --color-mainpink-50: #F7EEF6;
+    --color-mainpink-100: #E7CFE5;
+    --color-mainpink-200: #D8B0D4;
+    --color-mainpink-300: #C992C4;
+    --color-mainpink-400: #BA73B3;
+    --color-mainpink-500: #AB55A2;
+    --color-mainpink-600: #8C4585;
+    --color-mainpink-700: #6D3668;
+    --color-mainpink-800: #4F274B;
+    --color-mainpink-900: #30182D;
+
+    /* Blacks */
+    --color-mainblack-50: #F2F2F2;
+    --color-mainblack-100: #DBDBDB;
+    --color-mainblack-200: #C4C4C4;
+    --color-mainblack-300: #ADADAD;
+    --color-mainblack-400: #969696;
+    --color-mainblack-500: #808080;
+    --color-mainblack-600: #696969;
+    --color-mainblack-700: #525252;
+    --color-mainblack-800: #3B3B3B;
+    --color-mainblack-900: #2E2E2E;
+}
