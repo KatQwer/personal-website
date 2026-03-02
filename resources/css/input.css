@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-:root {
+@theme {
     /* Yellows */
     --color-mainyellow-50: #FFFBE6;
     --color-mainyellow-100: #FFF3B8;
@@ -16,7 +16,7 @@
     /* Pinks */
     --color-mainpink-50: #F7EEF6;
     --color-mainpink-100: #E7CFE5;
-    --color-mainpink-200: #D8B0D4;
+    --color-mainpink-200: #1b111a;
     --color-mainpink-300: #C992C4;
     --color-mainpink-400: #BA73B3;
     --color-mainpink-500: #AB55A2;

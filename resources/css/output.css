@@ -9,6 +9,36 @@
       "Courier New", monospace;
     --default-font-family: var(--font-sans);
     --default-mono-font-family: var(--font-mono);
+    --color-mainyellow-50: #FFFBE6;
+    --color-mainyellow-100: #FFF3B8;
+    --color-mainyellow-200: #FFEB8A;
+    --color-mainyellow-300: #FFE45C;
+    --color-mainyellow-400: #FFDC2E;
+    --color-mainyellow-500: #FFD500;
+    --color-mainyellow-600: #E0BC00;
+    --color-mainyellow-700: #A38800;
+    --color-mainyellow-800: #756200;
+    --color-mainyellow-900: #473C00;
+    --color-mainpink-50: #F7EEF6;
+    --color-mainpink-100: #E7CFE5;
+    --color-mainpink-200: #1b111a;
+    --color-mainpink-300: #C992C4;
+    --color-mainpink-400: #BA73B3;
+    --color-mainpink-500: #AB55A2;
+    --color-mainpink-600: #8C4585;
+    --color-mainpink-700: #6D3668;
+    --color-mainpink-800: #4F274B;
+    --color-mainpink-900: #30182D;
+    --color-mainblack-50: #F2F2F2;
+    --color-mainblack-100: #DBDBDB;
+    --color-mainblack-200: #C4C4C4;
+    --color-mainblack-300: #ADADAD;
+    --color-mainblack-400: #969696;
+    --color-mainblack-500: #808080;
+    --color-mainblack-600: #696969;
+    --color-mainblack-700: #525252;
+    --color-mainblack-800: #3B3B3B;
+    --color-mainblack-900: #2E2E2E;
   }
 }
 @layer base {
@@ -160,82 +190,15 @@
   }
 }
 @layer utilities {
-  .table {
-    display: table;
-  }
   .w-full {
     width: 100%;
-  }
-  .border-collapse {
-    border-collapse: collapse;
   }
   .transform {
     transform: var(--tw-rotate-x,) var(--tw-rotate-y,) var(--tw-rotate-z,) var(--tw-skew-x,) var(--tw-skew-y,);
   }
-  .resize {
-    resize: both;
-  }
-  .border {
-    border-style: var(--tw-border-style);
-    border-width: 1px;
-  }
-  .bg-\[var\(\)\] {
-    background-color: var();
-  }
-  .bg-\[var\(--color-mainblack-100\)\] {
-    background-color: var(--color-mainblack-100);
-  }
-  .bg-\[var\(--color-mainblack-200\)\] {
-    background-color: var(--color-mainblack-200);
-  }
-  .bg-\[var\(--color-mainblack-300\)\] {
-    background-color: var(--color-mainblack-300);
-  }
-  .bg-\[var\(--color-mainblack-400\)\] {
+  .bg-mainblack-400 {
     background-color: var(--color-mainblack-400);
   }
-  .bg-\[var\(--color-mainblack-900\)\] {
-    background-color: var(--color-mainblack-900);
-  }
-  .underline {
-    text-decoration-line: underline;
-  }
-  .outline {
-    outline-style: var(--tw-outline-style);
-    outline-width: 1px;
-  }
-}
-:root {
-  --color-mainyellow-50: #FFFBE6;
-  --color-mainyellow-100: #FFF3B8;
-  --color-mainyellow-200: #FFEB8A;
-  --color-mainyellow-300: #FFE45C;
-  --color-mainyellow-400: #FFDC2E;
-  --color-mainyellow-500: #FFD500;
-  --color-mainyellow-600: #E0BC00;
-  --color-mainyellow-700: #A38800;
-  --color-mainyellow-800: #756200;
-  --color-mainyellow-900: #473C00;
-  --color-mainpink-50: #F7EEF6;
-  --color-mainpink-100: #E7CFE5;
-  --color-mainpink-200: #D8B0D4;
-  --color-mainpink-300: #C992C4;
-  --color-mainpink-400: #BA73B3;
-  --color-mainpink-500: #AB55A2;
-  --color-mainpink-600: #8C4585;
-  --color-mainpink-700: #6D3668;
-  --color-mainpink-800: #4F274B;
-  --color-mainpink-900: #30182D;
-  --color-mainblack-50: #F2F2F2;
-  --color-mainblack-100: #DBDBDB;
-  --color-mainblack-200: #C4C4C4;
-  --color-mainblack-300: #ADADAD;
-  --color-mainblack-400: #969696;
-  --color-mainblack-500: #808080;
-  --color-mainblack-600: #696969;
-  --color-mainblack-700: #525252;
-  --color-mainblack-800: #3B3B3B;
-  --color-mainblack-900: #2E2E2E;
 }
 @property --tw-rotate-x {
   syntax: "*";
@@ -257,16 +220,6 @@
   syntax: "*";
   inherits: false;
 }
-@property --tw-border-style {
-  syntax: "*";
-  inherits: false;
-  initial-value: solid;
-}
-@property --tw-outline-style {
-  syntax: "*";
-  inherits: false;
-  initial-value: solid;
-}
 @layer properties {
   @supports ((-webkit-hyphens: none) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color:rgb(from red r g b)))) {
     *, ::before, ::after, ::backdrop {
@@ -275,8 +228,6 @@
       --tw-rotate-z: initial;
       --tw-skew-x: initial;
       --tw-skew-y: initial;
-      --tw-border-style: solid;
-      --tw-outline-style: solid;
     }
   }
 }
