@@ -20,7 +20,27 @@
             "./resources/img/portfolio5.png"
         ]        
     },
-    "skill2-project": {
+    "skill2-project-sem1": {
+        "title": "Prototyping Website Grow Kasterlee",
+        "description": "In this project, my team and I had to make the beginning stages of a website for Grow Kasterlee. (DISCLAIMER: all data seen in the photos is mock data)",
+        "features": [
+            "Modern prototype",
+            "Extensive database",
+            "Entity Relationship Diagram",
+            "Multiple pages with their own features"
+        ],
+        "tech": ["StarUML", "Figma", "SQL"],
+        "date": "2025",
+        "liveUrl": "#",
+        "githubUrl": "#",
+        "images": [
+            "./resources/img/skill2_sem1_project1.png",
+            "./resources/img/skill2_sem1_project2.png",
+            "./resources/img/skill2_sem1_project3.png",
+            "./resources/img/skill2_sem1_project4.png"
+        ]        
+    },
+    "skill2-project-sem2": {
         "title": "Website The Andersons",
         "description": "This is a website me and my teammates had to build for our Skill Integration Lab 2 course in my 2nd year at Thomas More. It uses TALL-stack to make a secure portal for a family to live their lives with. (DISCLAIMER: all data seen in the photos is mock data)",
         "features": [
@@ -29,15 +49,15 @@
             "Elderly-friendly UI",
             "Multiple account types with different permissions"
         ],
-        "tech": ["PHP", "StarUML", "Tailwind CSS", "Alpine.js", "Laravel", "Livewire", "SQL"],
+        "tech": ["PHP", "Tailwind CSS", "Alpine.js", "Laravel", "Livewire", "SQL"],
         "date": "2026",
         "liveUrl": "#",
         "githubUrl": "https://github.com/itfactory-tm/2026-ProjectSKIL2-503",
         "images": [
-            "./resources/img/skill2_project1.png",
-            "./resources/img/skill2_project2.png",
-            "./resources/img/skill2_project3.png",
-            "./resources/img/skill2_project4.png"
+            "./resources/img/skill2_sem2_project1.png",
+            "./resources/img/skill2_sem2_project2.png",
+            "./resources/img/skill2_sem2_project3.png",
+            "./resources/img/skill2_sem2_project4.png"
         ]        
     }
 }

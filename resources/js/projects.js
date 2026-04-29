@@ -6,6 +6,7 @@ const techIconMap = {
     'C#': 'csharp',
     'CSS': 'css',
     'Docker': 'docker',
+    'Figma': 'figma',
     'Git': 'git',
     'HTML': 'html5',
     'Java': 'java',
