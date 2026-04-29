@@ -59,5 +59,24 @@
             "./resources/img/skill2_sem2_project3.png",
             "./resources/img/skill2_sem2_project4.png"
         ]        
+    },
+        "basketball-simulator": {
+        "title": "Basketball Simulator",
+        "description": "This is a personal project I'm still working on, it's a simulator where you can simulate an NBA season from start to finish. (DISCLAIMER: All rights for every team/player name are reserved for the owner's of those trademarks)",
+        "features": [
+            "Modern dark UI",
+            "Every single team and player from the 2026 NBA season",
+            "An engine that runs every game",
+            "Randomised schedule generator"
+        ],
+        "tech": ["HTML", "CSS", "JavaScript"],
+        "date": "2026",
+        "liveUrl": "#",
+        "githubUrl": "#",
+        "images": [
+            "./resources/img/basketball_sim1.png",
+            "./resources/img/basketball_sim2.png",
+            "./resources/img/basketball_sim3.png"
+        ]        
     }
 }

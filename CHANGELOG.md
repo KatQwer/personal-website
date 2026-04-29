@@ -1,4 +1,11 @@
 # Changelog
+## [v1.0.3] - 29-04-2026
+### Added
+- Basketball Simulator project on "Projects" page
+### Changed
+### Deprecated
+### Removed
+### Fixed
 ## [v1.0.2] - 29-04-2026
 ### Added
 ### Changed
