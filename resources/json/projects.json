@@ -22,7 +22,7 @@
     },
     "skill2-project-sem1": {
         "title": "Prototyping Website Grow Kasterlee",
-        "description": "In this project, my team and I had to make the beginning stages of a website for Grow Kasterlee. (DISCLAIMER: all data seen in the photos is mock data)",
+        "description": "In this project, my team and I had to make the beginning stages of a website for Grow Kasterlee. This included making an use case diagram to fully map out what features needed to be on the website and how important each feature was, making an ERD to know exactly what data needed to be stored inside the database and making a prototype of the website so that once the project got handed over that the new groups could know exactly what the webite needed to look like. (DISCLAIMER: all data seen in the photos is mock data)",
         "features": [
             "Modern prototype",
             "Extensive database",
@@ -42,7 +42,7 @@
     },
     "skill2-project-sem2": {
         "title": "Website The Andersons",
-        "description": "This is a website me and my teammates had to build for our Skill Integration Lab 2 course in my 2nd year at Thomas More. It uses TALL-stack to make a secure portal for a family to live their lives with. (DISCLAIMER: all data seen in the photos is mock data)",
+        "description": "This is a website me and my teammates had to build for our Skill Integration Lab 2 course in my 2nd year at Thomas More. It uses TALL-stack to make a secure portal for a family to live their lives with. Here we split the resposibilities amongst our group so that each of us was able to properly make up-to-par web pages for the website, teaching us how to properly work in a team. I personally took on the role of the team's SCRUM master, leading the way in the sprint meetings and making sure everyone knew what they were doing and everyone kept on track. (DISCLAIMER: all data seen in the photos is mock data)",
         "features": [
             "Responsive design",
             "Modern UI",
