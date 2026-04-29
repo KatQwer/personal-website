@@ -1,5 +1,12 @@
 # Changelog
-## [v1.0.1] - 27-04-2026
+## [v1.0.2] - 29-04-2026
+### Added
+### Changed
+### Deprecated
+### Removed
+### Fixed
+- Closing a project modal by pressing outside the modal
+## [v1.0.1] - 29-04-2026
 ### Added
 - SKILL 2 Sem 1 project
 ### Changed

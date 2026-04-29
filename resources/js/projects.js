@@ -192,6 +192,14 @@ function initModal() {
         document.body.style.overflow = '';
     }
 
+    modal?.addEventListener('click', (e) => {
+        const modalContent = modal.querySelector('.bg-white');
+
+        if (!modalContent.contains(e.target)) {
+            closeModal();
+        }
+    });
+
     modalClose?.addEventListener('click', closeModal);
     modalBackdrop?.addEventListener('click', closeModal);
 
