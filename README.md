@@ -14,3 +14,6 @@ This is my personal portfolio that's live and shows all the newest information y
 **Contact** My contact page displays a simple contact form where you can contact me about inquiries, etc.
 
 **Legal Notice:** My legal notice page just shows a small legal disclaimer about my website.
+
+## Changelog
+See my changelog [here](./CHANGELOG.md).
