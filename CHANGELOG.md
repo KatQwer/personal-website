@@ -2,6 +2,7 @@
 ## [v1.0.2] - 29-04-2026
 ### Added
 ### Changed
+- Third fact on "About Me" page
 ### Deprecated
 ### Removed
 ### Fixed
