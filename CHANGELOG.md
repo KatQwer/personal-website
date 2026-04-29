@@ -3,6 +3,7 @@
 ### Added
 ### Changed
 - Third fact on "About Me" page
+- Updated information on "Projects" page
 ### Deprecated
 ### Removed
 ### Fixed

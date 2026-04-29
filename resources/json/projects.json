@@ -22,7 +22,7 @@
     },
     "skill2-project-sem1": {
         "title": "Prototyping Website Grow Kasterlee",
-        "description": "In this project, my team and I had to make the beginning stages of a website for Grow Kasterlee. This included making an use case diagram to fully map out what features needed to be on the website and how important each feature was, making an ERD to know exactly what data needed to be stored inside the database and making a prototype of the website so that once the project got handed over that the new groups could know exactly what the webite needed to look like. (DISCLAIMER: all data seen in the photos is mock data)",
+        "description": "In this project for Skill Integration Lab 2, my team and I had to make the beginning stages of a website for Grow Kasterlee. This included making an use case diagram to fully map out what features needed to be on the website and how important each feature was, making an ERD to know exactly what data needed to be stored inside the database and making a prototype of the website so that once the project got handed over that the new groups could know exactly what the webite needed to look like. (DISCLAIMER: all data seen in the photos is mock data)",
         "features": [
             "Modern prototype",
             "Extensive database",
