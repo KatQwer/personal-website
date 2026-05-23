@@ -25,6 +25,9 @@
     --color-mainpink-800: #4F274B;
     --color-mainpink-900: #30182D;
 
+    /* Pink Shadows */
+    --shadow-mainpink: 0 10px 15px -3px rgba(171, 85, 162, 0.3);
+
     /* Blacks */
     --color-mainblack-50: #F2F2F2;
     --color-mainblack-100: #DBDBDB;
